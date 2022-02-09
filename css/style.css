@@ -59,7 +59,9 @@ span.text__link {
 .text__about {
 	font-size: 22px;
 }
-
+.button_1 {
+	margin: 0 0 20px 20px;
+}
 .button_2 {
 	border: 1px solid #000;
 }
@@ -67,203 +69,146 @@ span.text__link {
 	border: 1px solid #000;
 	background-color: rgb(115, 85, 184);
 }
-.button_4 {
-	border: 4px solid #000;
+.button_4,
+.button_5,
+.button_6,
+.button_7,
+.button_8,
+.button_9,
+.button_10,
+.button_11,
+.button_12,
+.button_13,
+.button_14_1,
+.button_15_1,
+.button_16_1,
+.button_17_1 {
 	background-color: rgb(115, 85, 184);
 	padding: 20px;
 }
+
+.button_4 {
+	border: 4px solid #000;
+}
 .button_5 {
 	border: 4px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 }
 .button_6 {
 	border: 4px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 }
 .button_7 {
 	border: 4px dotted #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 }
 .button_8 {
 	border: 4px dashed #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 }
 .button_9 {
 	border: 5px double #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 }
 .button_10 {
 	outline: 5px dashed #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 }
+.link__page1,
 .link__page2 {
 	font-size: 22px;
 	color: red;
 	display: block;
-	padding: 0 20px 20px 0;
+	padding: 0 0 20px 0;
 }
-.link__page1 {
-	font-size: 22px;
-	color: red;
-	display: block;
-	padding: 0 20px 20px 0;
-}
-.button_11 {
+.button_11,
+.button_12,
+.button_13,
+.button_14_1,
+.button_14_2,
+.button_14_3,
+.button_15_1,
+.button_15_2,
+.button_15_3,
+.button_16_1,
+.button_16_2,
+.button_16_3,
+.button_17_1,
+.button_17_2,
+.button_17_3 {
 	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
 	border-radius: 10px;
 	color: #fff;
 	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
+}
+
+.button_11 {
 }
 .button_12 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	opacity: 0.3;
-}
-.button_13 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 }
 span.text_13 {
 	opacity: 0.3;
 }
 .button_14_1 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 	opacity: 1;
 }
 .button_14_2 {
-	border: 1px solid #000;
 	background-color: blue;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 }
 .button_14_3 {
-	border: 1px solid #000;
 	background-color: red;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 20px 20px;
 }
-
 .button_15_1 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 	opacity: 0;
 }
 .button_15_2 {
-	border: 1px solid #000;
 	background-color: blue;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 }
 .button_15_3 {
-	border: 1px solid #000;
 	background-color: red;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 20px 20px;
 }
 .button_16_1 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 	visibility: hidden;
 }
 .button_16_2 {
-	border: 1px solid #000;
 	background-color: blue;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 }
 .button_16_3 {
-	border: 1px solid #000;
 	background-color: red;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 20px 20px;
 }
 .button_17_1 {
-	border: 1px solid #000;
-	background-color: rgb(115, 85, 184);
-	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 	display: none;
 }
 .button_17_2 {
-	border: 1px solid #000;
 	background-color: blue;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 0 20px;
 }
 .button_17_3 {
-	border: 1px solid #000;
 	background-color: red;
 	padding: 20px;
-	border-radius: 10px;
-	color: #fff;
-	box-shadow: inset 5px 5px 5px rgb(184, 155, 155);
 	margin: 0 0 20px 20px;
 }
 .footer {
